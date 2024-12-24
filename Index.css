@@ -232,7 +232,7 @@ max-width:700px;
   color:green;
   }
 /*Laptop Screen (1440px and above) */
-@media (min-width: 1200px) {
+@media (min-width: 900px) {
   .secondcontainer {
     display: flex;
     justify-content: space-between;
